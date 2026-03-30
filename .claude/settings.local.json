@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /c/Users/aless/Desktop/zenx-web/src /c/Users/aless/Desktop/zenx-web/components -name *.tsx)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git branch:*)",
+      "Bash(git remote:*)",
+      "Bash(grep -rn 'href={`' /c/Users/aless/Desktop/zenx-web/app /c/Users/aless/Desktop/zenx-web/src)",
+      "Bash(git push:*)"
+    ]
+  }
+}
